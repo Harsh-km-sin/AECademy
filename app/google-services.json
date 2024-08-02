@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259634721902",
+    "project_id": "ae-cademy",
+    "storage_bucket": "ae-cademy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259634721902:android:5da0477e4548dca1e0627f",
+        "android_client_info": {
+          "package_name": "com.harshsingh.aecademy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnKhhDfJf1hZd71r_QwQlXEnjIPIbiRRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
